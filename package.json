@@ -1,0 +1,7 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "marie-phu-qui <marie.nguyen.phu.qui@gmail.com>",
+  "license": "MIT"
+}
